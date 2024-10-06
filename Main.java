@@ -1,9 +1,10 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 
 /**
  * This is the main class responsible for running, and testing the Tims Hardware store.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO.
  */
 
 public class Main {
