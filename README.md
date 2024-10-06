@@ -1,4 +1,4 @@
-# Java-Assignment-7-Store-Rental-Program
+# Java-Store-Rental-Program
 
 For this assignment I have created a software model for products available at 'Tim’s Hardware Store' using polymorphism, abstract classes, and interfaces. I have implemented each class based ona UML, which has shown the relationships between different types of products, some of which are rentable. Each product is a type of TimsProduct and a Commodity.
 
