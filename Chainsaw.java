@@ -1,4 +1,5 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 import java.util.Scanner;
 
 /**
@@ -14,7 +15,7 @@ import java.util.Scanner;
  * string representation of the Chainsaw object consisting of the attributes specific to the Chainsaw, and the attributes
  * shared amongst Tims Hardware products.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO.
  */
 
 public class Chainsaw extends RentableHardware {
