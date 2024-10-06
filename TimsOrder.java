@@ -1,4 +1,5 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 import java.util.Scanner;
 
 /**
@@ -19,7 +20,7 @@ import java.util.Scanner;
  * implementation of a 'toString' method, which will return a string representation of the customers name, and iterate
  * through the array of orders, and show each one, with the corresponding information.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 
     // In terms of the logic for returning the item, it is not specified how it should be handled in the assignments
