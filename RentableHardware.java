@@ -1,4 +1,5 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 
 /**
  * This abstract class serves as a base for the Rentable Hardware that is offered at the Tims Hardware Store. The class
@@ -12,7 +13,7 @@ package assignmentSeven_000879513;
  * subclasses. Similarly to the methods, they are implemented from the interface, and the logic for the methods are
  * implemented in this class for the subclasses to inherit.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO
  */
 
 public abstract class RentableHardware extends TimsProduct implements Rentable{
