@@ -1,4 +1,5 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 import java.util.Scanner;
 
 /**
@@ -12,15 +13,8 @@ import java.util.Scanner;
  * to create a NailGun object based on user input. The class also has a 'getFeatures' method which retrieves the features
  * of the NailGun, and a 'toString' method each of which will contain logic that is specific to the NailGun class.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO.
  */
-
-    // The assignment UML has 'rentalCost' as an instance variable, and as a parameter for the 'RentableHardware'
-    // abstract class constructor. In order to make a call to the superclass (RentableHardware) constructor from this
-    // class, the variable needed to be a part of this class's constructor, which is my reasoning for including it in
-    // this class's constructor. The 'rentalCost' directly applies to this class, as it is a type of 'RentableHardware'.
-    // Without doing this, I was unable to invoke the superclass constructor, as I was getting this error "Expected 4
-    // arguments but found 3". This is my reasoning for including it.
 
 public class NailGun extends RentableHardware {
     // Instance variables:
