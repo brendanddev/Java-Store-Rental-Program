@@ -14,7 +14,7 @@ import java.util.Scanner;
  * The class will also have methods 'getWeight', 'getCarryWeight', and a 'toString', each of which contain logic that is
  * specific to this class.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO.
  */
 
 public class Bobcat extends TimsProduct{
