@@ -1,4 +1,5 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 import java.util.Scanner;
 
 /**
