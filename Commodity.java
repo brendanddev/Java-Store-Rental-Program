@@ -1,4 +1,5 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 
 /**
  * This Interface serves as a building block for a product that can be sold at the Tims Product Store. It declares the
@@ -7,7 +8,7 @@ package assignmentSeven_000879513;
  * are declared in order for each class that implements this interface to implement logic that is specific to that class,
  * or that type of product.
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 
 public interface Commodity {
