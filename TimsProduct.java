@@ -1,4 +1,4 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
 
 /**
  * This abstract class serves as a base for the Tims Products. It implements the interface Commodity, meaning it will
@@ -12,7 +12,7 @@ package assignmentSeven_000879513;
  * method which will serve as a foundation to be called by the subclasses as it currently only offers basic information
  * specific to the overall Tims Products.
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 
 public abstract class TimsProduct implements Commodity {
