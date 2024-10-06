@@ -1,4 +1,5 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
+
 import java.util.Scanner;
 
 /**
@@ -11,7 +12,7 @@ import java.util.Scanner;
  * responsible for creating a box of nails from user input. Additionally, the class has methods 'getSize', 'getQuantity'
  * and 'toString' each of which implement logic that are specific to a box of nails.
  *
- * @author BRENDAN DILEO, 000879513.
+ * @author BRENDAN DILEO.
  */
 
 public class BoxOfNails extends TimsProduct{
