@@ -1,4 +1,4 @@
-package assignmentSeven_000879513;
+package storeRentalProgram;
 
 /**
  * This Interface serves as a building block for a product that can be rented from the Tims Product Store. The interface
@@ -10,7 +10,7 @@ package assignmentSeven_000879513;
  * currently contain no logic, as each class implementing this interface will implement its own logic that is specific
  * to that class, or piece of hardware.
  *
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  */
 
 public interface Rentable {
